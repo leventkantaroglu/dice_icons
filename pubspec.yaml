@@ -1,6 +1,6 @@
 name: dice_icons
-description: A new Flutter package project.
-version: 0.1.2
+description: A package project contains dice icons from zero to six.
+version: 0.1.4
 homepage: https://www.leventkantaroglu.com
 repository: https://github.com/leventkantaroglu/dice_icons
 
@@ -19,8 +19,7 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-
   fonts:
     - family: DiceIcons
       fonts:
-        - asset: assets/fonts/MyFlutterApp.ttf
+        - asset: lib/assets/fonts/MyFlutterApp.ttf
