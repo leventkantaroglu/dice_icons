@@ -1,7 +1,13 @@
+## 0.1.5
+
+* Add screenshot for pub.dev
+* Add funding tag
+
 ## 0.1.4
 
 * Update package desription
 * Add documentation lines
+
 ## 0.1.3
 
 * Fix icon visibility
