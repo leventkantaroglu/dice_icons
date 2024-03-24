@@ -1,5 +1,6 @@
-import 'package:dice_icons/dice_icons.dart';
 import 'package:flutter/material.dart';
+
+import 'package:dice_icons/dice_icons.dart';
 
 void main() {
   runApp(const MyApp());
@@ -30,9 +31,9 @@ class HomePage extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
-              Row(
+              const Row(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                children: const [
+                children: [
                   Icon(DiceIcons.dice1),
                   Icon(DiceIcons.dice2),
                   Icon(DiceIcons.dice3),
