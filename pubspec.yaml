@@ -1,6 +1,6 @@
 name: dice_icons
-description: A package project contains dice icons from zero to six.
-version: 0.1.6
+description: A Flutter UI package project contains dice icons from zero to six.
+version: 0.1.7
 homepage: https://www.leventkantaroglu.com
 repository: https://github.com/leventkantaroglu/dice_icons
 

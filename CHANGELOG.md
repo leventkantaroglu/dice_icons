@@ -1,3 +1,7 @@
+## 0.1.7
+
+- Increase pub points
+
 ## 0.1.6
 
 - Fix lint
